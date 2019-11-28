@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TreeTest.remove">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.ufrn.imd.van.misc.Main" />
       <module name="ArvoreTrie" />
@@ -64,9 +64,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeTest.autocomplete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArvoreTrie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ufrn.imd.van.trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.ufrn.imd.van.trie" />
+      <option name="MAIN_CLASS_NAME" value="br.com.ufrn.imd.van.trie.TreeTest" />
+      <option name="METHOD_NAME" value="autocomplete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArvoreTrie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ufrn.imd.van.trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.ufrn.imd.van.trie" />
+      <option name="MAIN_CLASS_NAME" value="br.com.ufrn.imd.van.trie.TreeTest" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArvoreTrie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ufrn.imd.van.trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.ufrn.imd.van.trie" />
+      <option name="MAIN_CLASS_NAME" value="br.com.ufrn.imd.van.trie.TreeTest" />
+      <option name="METHOD_NAME" value="remove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArvoreTrie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ufrn.imd.van.trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.ufrn.imd.van.trie" />
+      <option name="MAIN_CLASS_NAME" value="br.com.ufrn.imd.van.trie.TreeTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TreeTest.remove" />
+        <item itemvalue="JUnit.TreeTest.insert" />
+        <item itemvalue="JUnit.TreeTest.autocomplete" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TreeTest.search" />
       </list>
     </recent_temporary>
   </component>
